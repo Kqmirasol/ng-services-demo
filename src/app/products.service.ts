@@ -9,7 +9,7 @@ export class ProductsService {
     return[{
       id: "P-101",
       productname: 'Logitech Mouse',
-      description: 'Dizon',
+      description: '6 button Mechanical Mouse',
       prices: 899
     },
     {
